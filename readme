@@ -1,0 +1,3 @@
+This material explains: how to running your application into docker container manually and auto create containers with docker compose.
+
+Previous: https://github.com/DmitryWorks/microservices_grpc_flask
